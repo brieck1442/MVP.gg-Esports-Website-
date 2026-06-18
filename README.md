@@ -34,3 +34,11 @@ You get a trophy if you place. Set special admin access so that I can create a t
 
 
 <img width="1286" height="405" alt="image" src="https://github.com/user-attachments/assets/bc576a1d-ddc9-4299-8a7f-a14fc79eef0c" />
+
+
+# Hub
+
+It eventually got too complicated in the top section, so I had to improvise and create a hub that combined team and recent match information; that way, it was less confusing. 
+
+<img width="1509" height="777" alt="image" src="https://github.com/user-attachments/assets/61372ca7-f927-42fb-b1a0-88d900a2c661" />
+
