@@ -21,3 +21,8 @@ There was a lot of intentionality with these games.  I specifically wanted ones 
 
 <img width="1671" height="820" alt="image" src="https://github.com/user-attachments/assets/82addc34-4d29-43af-9f0e-56184887d049" />
 The games tab is also where you can challenge people or Teams individually.
+
+# Global Leaderboard
+
+<img width="1488" height="855" alt="image" src="https://github.com/user-attachments/assets/87256841-eb7b-4f39-90c2-2a9cfdcf139b" />
+
