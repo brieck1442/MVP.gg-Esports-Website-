@@ -26,3 +26,11 @@ The games tab is also where you can challenge people or Teams individually.
 
 <img width="1488" height="855" alt="image" src="https://github.com/user-attachments/assets/87256841-eb7b-4f39-90c2-2a9cfdcf139b" />
 
+# Tournaments 
+
+You get a trophy if you place. Set special admin access so that I can create a tournament anytime I want to. This would be good for hosting community tournaments. There are a lot of other admin priveledges as well.
+
+<img width="1442" height="554" alt="image" src="https://github.com/user-attachments/assets/5eda65ba-f5e2-420d-b263-0d15c082d7b1" />
+
+
+<img width="1286" height="405" alt="image" src="https://github.com/user-attachments/assets/bc576a1d-ddc9-4299-8a7f-a14fc79eef0c" />
