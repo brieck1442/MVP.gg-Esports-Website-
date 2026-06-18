@@ -42,3 +42,5 @@ It eventually got too complicated in the top section, so I had to improvise and 
 
 <img width="1509" height="777" alt="image" src="https://github.com/user-attachments/assets/61372ca7-f927-42fb-b1a0-88d900a2c661" />
 
+# Searching for a player and the Chat feature
+
